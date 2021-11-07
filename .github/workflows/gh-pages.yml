@@ -1,12 +1,12 @@
 env:
-  cname: faqs.ankiweb.net
+  cname: abdnh.net
 
 name: github pages
 
 on:
   push:
     branches:
-      - main
+      - ar
       - test
 
 jobs:
